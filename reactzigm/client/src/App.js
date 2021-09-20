@@ -38,10 +38,6 @@ function App() {
    const [confirmPassword,setConfirmPassword]=useState("");
     console.log(names+email+age+password+confirmPassword);
 
-
-
-
-
   return (
 
     <div className="App">
